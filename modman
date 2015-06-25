@@ -1,36 +1,36 @@
-app/code/local/Mana																								app/code/local/Mana
+app/code/local/Mana                                               app/code/local/Mana
 
-# app/design/adminhtml/default/default/layout/mana_core.xml					app/design/adminhtml/default/default/layout/mana_core.xml
-# app/design/adminhtml/default/default/template/mana 								app/design/adminhtml/default/default/template/mana
+# app/design/adminhtml/default/default/layout/mana_core.xml         app/design/adminhtml/default/default/layout/mana_core.xml
+# app/design/adminhtml/default/default/template/mana                app/design/adminhtml/default/default/template/mana
 
-app/design/frontend/base/default/layout/mana_core.xml							app/design/frontend/base/default/layout/mana_core.xml
-app/design/frontend/base/default/layout/mana_filters.xml					app/design/frontend/base/default/layout/mana_filters.xml
+app/design/frontend/base/default/layout/mana_core.xml             app/design/frontend/base/default/layout/mana_core.xml
+app/design/frontend/base/default/layout/mana_filters.xml          app/design/frontend/base/default/layout/mana_filters.xml
 
-app/design/frontend/base/default/template/mana 										app/design/frontend/base/default/template/mana
+app/design/frontend/base/default/template/mana                    app/design/frontend/base/default/template/mana
 
-app/design/frontend/rwd/default/layout/mana_filters.xml 					app/design/frontend/rwd/default/layout/mana_filters.xml
-app/design/frontend/rwd/default/template/mana 										app/design/frontend/rwd/default/template/mana
+app/design/frontend/rwd/default/layout/mana_filters.xml           app/design/frontend/rwd/default/layout/mana_filters.xml
+app/design/frontend/rwd/default/template/mana                     app/design/frontend/rwd/default/template/mana
 
-app/etc/modules/Mana_Core.xml 																		app/etc/modules/Mana_Core.xml
-app/etc/modules/Mana_Db.xml 																			app/etc/modules/Mana_Db.xml
-app/etc/modules/Mana_Filters.xml 																	app/etc/modules/Mana_Filters.xml
+app/etc/modules/Mana_Core.xml                                     app/etc/modules/Mana_Core.xml
+app/etc/modules/Mana_Db.xml                                       app/etc/modules/Mana_Db.xml
+app/etc/modules/Mana_Filters.xml                                  app/etc/modules/Mana_Filters.xml
 
-app/locale/en_US/Mana_Core.csv																		app/locale/en_US/Mana_Core.csv
-app/locale/en_US/Mana_Db.csv																			app/locale/en_US/Mana_Db.csv
-app/locale/en_US/Mana_Filters.csv																	app/locale/en_US/Mana_Filters.csv
+app/locale/en_US/Mana_Core.csv                                    app/locale/en_US/Mana_Core.csv
+app/locale/en_US/Mana_Db.csv                                      app/locale/en_US/Mana_Db.csv
+app/locale/en_US/Mana_Filters.csv                                 app/locale/en_US/Mana_Filters.csv
 
-js/mana 																													js/mana
+js/mana                                                           js/mana
 
-js/src/Mana 																											js/src/Mana
+js/src/Mana                                                       js/src/Mana
 
-skin/frontend/base/default/css/mana_core.css 											skin/frontend/base/default/css/mana_core.css
-skin/frontend/base/default/css/mana_filters.css 									skin/frontend/base/default/css/mana_filters.css
+skin/frontend/base/default/css/mana_core.css                      skin/frontend/base/default/css/mana_core.css
+skin/frontend/base/default/css/mana_filters.css                   skin/frontend/base/default/css/mana_filters.css
 
-skin/frontend/base/default/images/mana_core 											skin/frontend/base/default/images/mana_core
+skin/frontend/base/default/images/mana_core                       skin/frontend/base/default/images/mana_core
 
-# skin/frontend/base/default/lib/jquery-lighter 										skin/frontend/base/default/lib/jquery-lighter
+# skin/frontend/base/default/lib/jquery-lighter                     skin/frontend/base/default/lib/jquery-lighter
 
-skin/frontend/rwd/default/css/mana_core.css												skin/frontend/rwd/default/css/mana_core.css
-skin/frontend/rwd/default/css/mana_filters.css										skin/frontend/rwd/default/css/mana_filters.css
+skin/frontend/rwd/default/css/mana_core.css                       skin/frontend/rwd/default/css/mana_core.css
+skin/frontend/rwd/default/css/mana_filters.css                    skin/frontend/rwd/default/css/mana_filters.css
 
-skin/frontend/rwd/default/images/mana_core												skin/frontend/rwd/default/images/mana_core
+skin/frontend/rwd/default/images/mana_core                        skin/frontend/rwd/default/images/mana_core

@@ -1,0 +1,26 @@
+app/code/local/Mana																								app/code/local/
+
+app/design/adminhtml/default/default/layout/mana_core.xml					app/code/design/adminhtml/default/default/layout/
+app/design/adminhtml/default/default/template/mana 								app/design/adminhtml/default/default/template/
+
+app/design/frontend/base/default/layout/mana_core.xml							app/design/frontend/base/default/layout/
+app/design/frontend/base/default/layout/mana_filters.xml					app/design/frontend/base/default/layout/
+app/design/frontend/base/default/template/mana 										app/design/frontend/base/default/template/
+
+app/design/frontend/rwd/default/layout/mana_filters.xml 					app/design/frontend/rwd/default/layout/
+app/design/frontend/rwd/default/template/mana 										app/design/frontend/rwd/default/template/
+
+app/etc/modules/Mana_Core.xml 																		app/etc/modules/
+app/etc/modules/Mana_Db.xml 																			app/etc/modules/
+app/etc/modules/Mana_Filters.xml 																	app/etc/modules/
+
+app/locale/en_US/Mana_Core.csv																		app/locale/en_US/
+app/locale/en_US/Mana_Db.csv																			app/locale/en_US/
+app/locale/en_US/Mana_Filters.csv																	app/locale/en_US/
+
+js/mana 																													app/js/
+js/src/Mana 																											app/js/src/
+
+skin/frontend/rwd/default/css/mana_core.css												skin/frontend/rwd/default/css/
+skin/frontend/rwd/default/css/mana_filters.css										skin/frontend/rwd/default/css/
+skin/frontend/rwd/default/images/mana_core												skin/frontend/rwd/default/images/

@@ -17,7 +17,7 @@ Make sure you have modman installed. See [https://github.com/colinmollenhour/mod
 ```
 $ cd /var/www/html				# Wherever Magento is installed
 $ modman init					# This is only done once in your application root
-$ modman clone git@github.com:VizualAbstract/multiple-select-nav.gitinstalled
+$ modman clone git@github.com:VizualAbstract/multiple-select-nav.git
 ```
 It's important that you re-index for the plugin to work properly (found under System > Index Management).
 

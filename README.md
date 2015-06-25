@@ -24,3 +24,6 @@ It's important that you Re-Index for the plugin to work properly (found under Sy
 ```
 $ magerun index:reindex:all
 ```
+
+## modman
+For more information on working with modman modules, see their excellent tutorial at [https://github.com/colinmollenhour/modman/wiki/Tutorial](https://github.com/colinmollenhour/modman/wiki/Tutorial).

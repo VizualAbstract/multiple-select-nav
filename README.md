@@ -7,7 +7,7 @@ Based on Manadev's freely available Magento extension, "[Multiple Select In Laye
 
   * Web server must follow symlinks
   * For Magento, if using template files in a modman module, you must enable "Allow Symlinks" (found under System > Configuration > Advanced > Developer)
- 
+
 ![Allow Symlinks](http://host.coreycapetillo.com/git/media/allow-symlinks.png)
 
 ## Installation
@@ -21,7 +21,7 @@ $ modman clone git@github.com:VizualAbstract/multiple-select-nav.git
 ```
 It's important that you re-index for the plugin to work properly (found under System > Index Management).
 
-If [n98-magerun](https://github.com/netz98/n98-magerun) is installed, all you have to do is run: 
+If [n98-magerun](https://github.com/netz98/n98-magerun) is installed, all you have to do is run:
 
 ```
 $ magerun index:reindex:all

@@ -19,9 +19,9 @@ app/locale/en_US/Mana_Core.csv                                    app/locale/en_
 app/locale/en_US/Mana_Db.csv                                      app/locale/en_US/Mana_Db.csv
 app/locale/en_US/Mana_Filters.csv                                 app/locale/en_US/Mana_Filters.csv
 
-js/mana                                                           js/mana
+# js/mana                                                           js/mana
 
-js/src/Mana                                                       js/src/Mana
+# js/src/Mana                                                       js/src/Mana
 
 skin/frontend/base/default/css/mana_core.css                      skin/frontend/base/default/css/mana_core.css
 skin/frontend/base/default/css/mana_filters.css                   skin/frontend/base/default/css/mana_filters.css

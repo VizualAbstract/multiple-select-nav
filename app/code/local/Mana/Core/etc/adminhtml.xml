@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
+<!--
 @category    Mana
 @package     Mana_Core
 @copyright   Copyright (c) http://www.manadev.com
 @license     http://www.manadev.com/license  Proprietary License
  -->
 <config>
-    <menu>
+<!--     <menu>
         <mana>
-            <title>MANAdev</title>
+            <title>MANAdev2</title>
             <sort_order>79</sort_order>
             <children>
                 <system_configuration translate="title" module="mana_core">
@@ -60,5 +60,5 @@
 				</children>
 			</admin>
 		</resources>
-	</acl>
+	</acl> -->
 </config>

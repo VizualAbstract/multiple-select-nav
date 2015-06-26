@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
+<!--
 @category    Mana
 @package     Mana_Core
 @copyright   Copyright (c) http://www.manadev.com
 @license     http://www.manadev.com/license  Proprietary License
  -->
 <config>
-    <tabs>
+<!--     <tabs>
         <mana>
             <label>MANAdev</label>
             <sort_order>250</sort_order>
@@ -64,5 +64,5 @@
                 </js_admin>
             </groups>
         </mana>
-    </sections>
+    </sections> -->
 </config>
